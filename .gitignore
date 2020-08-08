@@ -1,0 +1,4 @@
+# Lines starting with '#' are considered comments.
+# Ignore any file named 0719.txt.
+
+!0719.txt
